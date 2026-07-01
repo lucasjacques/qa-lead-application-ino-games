@@ -1,0 +1,90 @@
+Vou organizar por slide, com o prompt em inglês (gera resultados melhores nas ferramentas) e uma nota de uso para cada um.
+
+Guia de estilo global — aplique em todos os prompts:
+
+Dark navy background (#00000a), purple and blue neon accents, cinematic sci-fi game aesthetic, high quality, no text
+
+Cole isso junto com cada prompt abaixo.
+
+Slide 2 — O cenário em números
+
+
+Dark sci-fi HUD dashboard showing warning indicators and 
+critical bug metrics, glitching red alert symbols on a 
+dark game interface, data visualization with purple and 
+blue glowing elements, cinematic game UI
+Uso: imagem de fundo com opacidade baixa, texto por cima
+
+Slide 3 — O que precisa mudar
+
+
+A game player character encountering a critical error in 
+a dark multiplayer environment, glowing red bug symbols 
+floating in space around them, dramatic lighting, 
+sci-fi game atmosphere
+Uso: lado direito do slide, texto à esquerda
+
+Slide 5 — Bug crítico: como estamos respondendo
+
+
+A dramatic red stop signal in a dark game control room, 
+"release blocked" atmosphere, countdown timer aesthetic, 
+warning lights, cinematic tension, dark navy background 
+with red and orange emergency accents
+Uso: fundo do slide de impacto (o slide anterior, só com o título)
+
+Slide 6 — Como vamos testar
+
+
+Three glowing zones in a dark sci-fi game testing 
+environment: fire sparks for smoke test, circular arrows 
+for regression loop, magnifying glass for exploration, 
+purple and blue neon lights, game UI aesthetic
+Uso: fundo com opacidade baixa ou metade do slide
+
+Slide 7 — Antecipando bugs: novo fluxo
+
+
+A horizontal glowing timeline in a dark sci-fi interface, 
+sprint phases as illuminated waypoints flowing left to 
+right, game level progression aesthetic, neon purple and 
+blue checkpoints on dark background
+Uso: esse slide é candidato a substituir a tabela inteira por essa imagem — vale testar
+
+Slide 8 — QA no ciclo de produção
+
+
+A circular or horizontal game development cycle in a dark 
+space environment, each phase as a glowing node or 
+checkpoint, orbital motion aesthetic, sci-fi game pipeline 
+visualization, purple and blue neon on dark background
+Uso: mesmo que o anterior — candidato a substituir a tabela
+
+Slide 9 — Como vamos trabalhar
+
+
+Two figures in a dark sci-fi game environment, one 
+executing a mission (junior) and one overseeing from 
+a command position (lead), collaborative team dynamic, 
+subtle mentor-student relationship, purple and blue tones
+Uso: lado direito ou fundo com opacidade baixa
+
+Slide 10 — Desenvolvendo o time
+
+
+An RPG character level-up screen in a dark sci-fi game UI, 
+XP progress bar filling up, skill tree unlocking over time, 
+8-week progression aesthetic, glowing purple and blue 
+interface elements
+Uso: metade direita do slide
+
+Slide 11 — Plano de ação
+
+
+A dark sci-fi mission briefing screen, tactical action plan 
+with glowing checklist items, 2-week countdown roadmap, 
+space command center aesthetic, purple and blue neon 
+accents, sense of direction and momentum
+Uso: fundo com opacidade baixa, texto por cima
+
+São 9 prompts no total. Os slides 7 e 8 têm potencial de virar slides 100% visuais — gera e avalia se faz sentido substituir as tabelas por imagem.
