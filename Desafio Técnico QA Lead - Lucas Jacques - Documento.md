@@ -1,14 +1,12 @@
 # Desafio Técnico QA Lead - Lucas Jacques
 
-# Desafio
-
 ## 1. Quais são os 3 principais problemas de qualidade com base nos dados? O que você priorizaria nas próximas 2 semanas? (máx. 3 ações)
 
 **Problemas identificados:**
 
 - **Ausência de suíte de regressão** — sem baseline estruturada, não há como detectar sistematicamente o que quebrou entre builds
 - **Detecção tardia** — 40% dos bugs encontrados próximo ao release; 28 críticos identificados somente após freeze
-- **Alta taxa de escape para produção** — 9 de 28 bugs críticos (≈32%) chegaram aos jogadores; com tempo médio de correção de 3 dias, bugs que escapam custam caro em reputação e esforço reativo
+- **Alta taxa de escape para produção** — 9 de 28 bugs críticos (≈32%) chegaram aos jogadores; com tempo médio de correção de 3 dias, isso equivale a ≈27 dias-bug de exposição crítica acumulada em produção (9 × 3 dias) — custo alto em reputação e esforço reativo
 
 **3 ações prioritárias (próximas 2 semanas):**
 
