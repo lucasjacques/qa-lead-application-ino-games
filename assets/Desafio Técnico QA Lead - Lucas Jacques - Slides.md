@@ -531,6 +531,7 @@ Meta: reduzir os 40% de bugs tardios antecipando a detecção para quando o cust
 <li>Definir e priorizar o plano de testes a cada sprint</li>
 <li>Pair testing nas áreas críticas (pagamento, progressão)</li>
 <li>Interface com o time de desenvolvimento</li>
+<li>Início da automação de testes, conforme a stack do jogo</li>
 <li>Sempre disponível para dúvidas</li>
 </ul>
 </div>
@@ -594,7 +595,7 @@ Meta: reduzir os 40% de bugs tardios antecipando a detecção para quando o cust
 </div>
 <div style="font-size:11px; color:#666688; margin-top:6px;">semanas 7–8</div>
 <div style="font-size:14px; font-weight:bold; color:#ffcc55; margin-top:2px;">Retrospectiva</div>
-<div style="font-size:11px; color:#aaaacc; margin-top:4px;">O que melhorou, próximos objetivos</div>
+<div style="font-size:11px; color:#aaaacc; margin-top:4px;">O que melhorou + início da automação (conforme stack do jogo)</div>
 </div>
 
 <div style="flex:0 0 70px; text-align:center; padding:0 6px;">

@@ -65,6 +65,7 @@ QA presente em todas as fases, com responsabilidades distintas em cada uma:
 - Pair testing com os juniores nas áreas críticas (pagamento, progressão)
 - Ser o ponto de comunicação entre QA e time de desenvolvimento
 - Participar do refinamento para revisar critérios de aceite
+- Começar a desenvolver os testes automatizados de acordo com a necessidade e stack tecnológica do jogo — caso fosse Unity, provavelmente usaria o AltUnityTester; caso fosse Unreal Engine, utilizaria o "Sistema de Automatização" integrado da própria engine, e assim por diante
 
 ## 6. Que iniciativa você proporia para elevar o nível do time de QA ao longo do próximo ciclo de 8 semanas?
 
@@ -75,7 +76,7 @@ Programa de desenvolvimento integrado ao ritmo da sprint — sem criar carga ext
 | 1–2 | Diagnóstico individual: entender o nível e as lacunas de cada QA júnior através do trabalho do dia a dia |
 | 3–4 | Pair testing nas áreas críticas comigo; discutir decisões em tempo real ("por que esse caso entra na regressão e não no smoke?") |
 | 5–6 | Júniores assumem o planejamento de testes de uma feature com minha revisão; desenvolver ownership |
-| 7–8 | Retrospectiva de qualidade: o que melhorou, o que ainda falha, definir próximos objetivos |
+| 7–8 | Retrospectiva de qualidade: o que melhorou, o que ainda falha, definir próximos objetivos. Início do investimento em automação, de acordo com a stack tecnológica do jogo |
 
 **Métrica de sucesso:** redução de bugs encontrados na fase de pré-freeze que deveriam ter sido capturados durante a sprint.
 
