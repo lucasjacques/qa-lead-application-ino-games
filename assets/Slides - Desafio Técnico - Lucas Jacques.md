@@ -646,5 +646,5 @@ Meta: reduzir os 40% de bugs tardios antecipando a detecção para quando o cust
 </div>
 
 <div style="margin-top:26px; border-left:4px solid #7755cc; background:#0d0d1f; padding:12px 18px; font-size:15px; color:#aaaacc; text-align:center;">
-Pequenas mudanças, aplicadas de forma consistente, são o que vai transformar os números desta versão nas próximas.
+Pequenas mudanças, aplicadas de forma consistente, são o que vai melhorar os números das próximas versões.
 </div>
