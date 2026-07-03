@@ -198,7 +198,7 @@ strong { color: #d0b8ff; }
 
 <div class="mini-logo">
 
-<img src="images/nebula-forge-logo.png" style="width:150px; filter: hue-rotate(90deg) saturate(1) brightness(0.6); mix-blend-mode: screen;" />
+<img src="images/nebula-forge-logo.png" style="width:150px; filter: hue-rotate(90deg) saturate(0); brightness(0.6); mix-blend-mode: screen;" />
 
 <span>QA🔬</span>
 
