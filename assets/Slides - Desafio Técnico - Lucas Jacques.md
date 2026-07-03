@@ -512,7 +512,7 @@ Meta: reduzir os 40% de bugs tardios antecipando a detecção para quando o cust
 <div style="flex:1; background:#12122a; border-top:4px solid #7755cc; padding:18px 20px;">
 <div style="display:flex; gap:10px; align-items:flex-end; height:90px;">
 <img src="images/maria-profile.png" style="height:90px; width:auto;" />
-<img src="images/joao-profile.png" style="height:90px; width:auto;" />
+<img src="images/jose-profile.png" style="height:90px; width:auto;" />
 </div>
 <div style="font-weight:bold; font-size:17px; color:#c8b8ff; margin-top:8px;">Maria e José — execução</div>
 <ul style="margin-top:10px; padding-left:20px; font-size:13px;">
